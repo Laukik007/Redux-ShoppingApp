@@ -1,0 +1,7 @@
+.MuiCardActions-root
+{
+    justify-content: center !important;
+    align-items: flex-end;
+    position: relative;
+    bottom:1%;
+}
